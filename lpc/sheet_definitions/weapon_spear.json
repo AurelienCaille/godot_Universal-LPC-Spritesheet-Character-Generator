@@ -1,0 +1,31 @@
+{
+  "name": "Spear",
+  "type_name": "weapon",
+  "preview_row": 17,
+  "layer_1": {
+    "zPos": 140,
+    "male": "weapon/thrust_oversize/male/universal/",
+    "muscular": "weapon/thrust_oversize/male/universal/",
+    "female": "weapon/thrust_oversize/female/universal/",
+    "pregnant": "weapon/thrust_oversize/female/universal/"
+  },
+  "layer_2": {
+    "custom_animation": "thrust_oversize",
+    "zPos": 150,
+    "male": "weapon/thrust_oversize/male/",
+    "muscular": "weapon/thrust_oversize/male/",
+    "female": "weapon/thrust_oversize/female/",
+    "pregnant": "weapon/thrust_oversize/female/"
+  },
+  "layer_3": {
+    "custom_animation": "slash_oversize",
+    "zPos": 150,
+    "male": "weapon/slash_oversize/male/",
+    "muscular": "weapon/slash_oversize/male/",
+    "female": "weapon/slash_oversize/female/",
+    "pregnant": "weapon/slash_oversize/female/"
+  },
+  "variants": [
+    "halberd"
+  ]
+}

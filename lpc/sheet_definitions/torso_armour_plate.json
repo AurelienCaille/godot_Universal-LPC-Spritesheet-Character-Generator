@@ -1,0 +1,19 @@
+{
+  "name": "Plate",
+  "type_name": "armour",
+  "layer_1": {
+    "zPos": 60,
+    "male": "torso/armour/plate/male/",
+    "female": "torso/armour/plate/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}
